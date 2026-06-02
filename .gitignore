@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Home Assistant
+*.db
+*.sqlite
+*.db-shm
+*.db-wal
+
+# HACS / build artifacts
+custom_components/*/__pycache__/
+
+# Test / local dev files
+test_*.py
+debug_*.py
