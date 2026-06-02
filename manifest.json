@@ -1,9 +1,0 @@
-{
-  "domain": "thinkcentre_m910x",
-  "name": "ThinkCentre M910x Monitor",
-  "version": "1.0.0",
-  "config_flow": true,
-  "requirements": [],
-  "dependencies": [],
-  "codeowners": []
-}

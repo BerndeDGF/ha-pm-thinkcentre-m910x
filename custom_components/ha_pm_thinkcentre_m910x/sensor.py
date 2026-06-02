@@ -83,7 +83,7 @@ class ThinkCentreSensor(CoordinatorEntity, SensorEntity):
 
     @property
     def unique_id(self):
-        return f"{self.entry.entry_id}_{self._key}"
+        return f"ha_pm_thinkcentre_m910x_{self.entry.entry_id}_{self._key}"
 
     @property
     def state(self):

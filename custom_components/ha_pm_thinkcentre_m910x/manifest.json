@@ -1,0 +1,13 @@
+{
+  "domain": "ha_pm_thinkcentre_m910x",
+  "name": "HA PM ThinkCentre M910x",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": ["aiohttp"],
+  "dependencies": [],
+  "codeowners": ["@BerndeDGF"],
+  "documentation": "https://github.com/BerndeDGF/ha-pm-thinkcentre-m910x",
+  "issue_tracker": "https://github.com/BerndeDGF/ha-pm-thinkcentre-m910x/issues",
+  "iot_class": "local_polling",
+  "homeassistant": "2026.05.1"
+}
